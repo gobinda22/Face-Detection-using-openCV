@@ -5,3 +5,5 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 
 # Haarcascade_frontalface_default.xml
 In this use-case we will try to detect the face of individuals using the haarcascade_frontalface_default.xml
+
+![Screenshot (110)](https://user-images.githubusercontent.com/82750318/127747199-795b6859-68ce-4f0e-b266-e5fc83a8d0c5.png)
